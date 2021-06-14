@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikvand
 - 👀 I’m interested in ML, Data Science and Hardware 
 - 🌱 I’m currently learning Julia!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cool ML and data analytics projects
 - 📫 How to reach me nnikvand@gmail.com
 
 <!---
